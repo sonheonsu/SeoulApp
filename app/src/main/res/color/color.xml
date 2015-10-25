@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <color android:name="pressed1">#959ca4</color>
+    <color android:name="pressed2">#646d79</color>
+
+    <color android:name="focused1">#959ca4</color>
+    <color android:name="focused2">#646d79</color>
+
+    <color android:name="default1">#686e77</color>
+    <color android:name="default2">#40474f</color>
+
+    <color android:name="stroke">#00000000</color>
+</selector>
